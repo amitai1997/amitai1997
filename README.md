@@ -26,10 +26,8 @@ Here are some ideas to get you started:
 
 
 
-![alt text](https://github.com/amitai1997/amitai1997/blob/main/readme.jfif?raw=true)
+![amitai's banner](https://github.com/amitai1997/amitai1997/blob/main/readme.png?raw=true)
 
-
-![Banner]([https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png](https://media.licdn.com/dms/image/C4D16AQF0z_h_t_3ChA/profile-displaybackgroundimage-shrink_350_1400/0/1644225466194?e=1683763200&v=beta&t=kvOCUZaQl_azhh4BqNc6DeN4XTI1bxymjpV3F9KvB0I))
 
 I am a backend software developer, constantly seeking ways to implement innovative technologies in real-life scenarios. After completing my military service, where I received software development training, I was deployed as a software developer, DevOps engineer, and infrastructure specialist.
 
@@ -43,5 +41,4 @@ During my leisure time, I enjoy creating personal projects, expanding my knowled
 - 💬 Ask me about movies and TV serieses.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitai1997)](https://github.com/anuraghazra/github-readme-stats)
