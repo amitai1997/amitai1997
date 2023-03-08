@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 
+![alt text](https://github.com/amitai1997/amitai1997/blob/main/readme.jfif?raw=true)
 
 
 ![Banner]([https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png](https://media.licdn.com/dms/image/C4D16AQF0z_h_t_3ChA/profile-displaybackgroundimage-shrink_350_1400/0/1644225466194?e=1683763200&v=beta&t=kvOCUZaQl_azhh4BqNc6DeN4XTI1bxymjpV3F9KvB0I))
